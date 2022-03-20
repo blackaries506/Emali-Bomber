@@ -1,7 +1,3 @@
-# Python Tutorial - || Create a EMAIL Bomb/Bomber || Code Walk-through || Hacking/Info-Sec ||
-
-*#python* *#python 3* *#email* *#bomb* *#bomber* *#code* *#walk-through* *#hacking* *#info-sec* *#security* *#mass* *#spam* *#create*
-*#how* *#to* *#code* *#script* *#kiddie*
 
 
 
@@ -13,10 +9,7 @@ git clone https://github.com/blackaries506/Emali-Bomber.git
 cd Emali-Bomber
 ```
  
-### password
-```
-23122006
-```
+
 
 ## Follow for update
 youtube https://www.youtube.com/channel/UC2tQEkquHAakyIv1Z7b-lDQ                                                                          
